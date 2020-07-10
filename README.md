@@ -19,7 +19,9 @@ Candidate will get bonus marks for following features:
 
 ## Reference Wireframe
 Following is a reference wireframe for the app:
+
 ![Wireframe](./wireframe.png)
+
 You have complete liberty to modify the UI. Above wireframe is just for a reference.
 
 ## Deliverables
